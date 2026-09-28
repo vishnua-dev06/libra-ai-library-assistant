@@ -159,7 +159,7 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 - **Pranav**
 - **Sidharth**
 - **SreeJitha S**
-- **Shahna S **
+- **Shahna S**
 - **Rinfa A**
 - **Muhammed Rizil C**
 - **Roshan**
